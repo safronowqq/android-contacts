@@ -1,3 +1,4 @@
+// Мой проект Контакты
 pluginManagement {
     repositories {
         gradlePluginPortal()
